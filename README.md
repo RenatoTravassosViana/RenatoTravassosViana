@@ -22,7 +22,7 @@
 <div align="center">
   
   <img height="156em" src="https://github-readme-stats.vercel.app/api?username=renatobrz86&show_icons=true&bg_color=0d1117&hide_border=true&locale=pt-br"/>  
-  <img height="1560em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatobrz86&theme=transparent&langs_count=8&bg_color=0d1117&hide_border=true&locale=pt-br"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatobrz86&theme=transparent&langs_count=8&bg_color=0d1117&hide_border=true&locale=pt-br"/>
   <img height="100em" src="https://github-readme-activity-graph.vercel.app/graph?username=renatobrz86&bg_color=0d1117&color=589edd&line=0259d2&point=f5c402&area=true&hide_border=true&hide_title=true"/>
   <img height="106em" src="https://github-readme-streak-stats.herokuapp.com/?user=renatobrz86&theme=tokyonight-duo&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
 </div>
