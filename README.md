@@ -5,7 +5,7 @@
    
 👨🏼‍🎓 Tenho 3 formações, porém hoje só atua em uma delas, onde continuo me especializando cada dia mais. Sou amante da cafeina, apaixonado por carros e fotografia (virou um hobbie), sonhando alto como todos!<br /><br />
 
-💻 Hoje eu atuo na área de Suporte a Sistemas, atuando em 2 sistemas o RM TOTVS e o Infosistemas Locavia.<br />
+💻 Hoje atuo na área de Suporte a Sistemas, atuando em 2 sistemas o RM TOTVS e o Infosistemas Locavia.<br />
 
 📖 Estudando linguagens de programação ligadas ao BackEnd/FullStack.<br />
 
