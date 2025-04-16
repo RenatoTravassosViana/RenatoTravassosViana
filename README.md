@@ -3,7 +3,7 @@
  <h3 align="left"> Sobre mim: </h3> 
  <p align="left">
    
-👨🏼‍🎓 Tenho 3 formações, porém hoje só atuo em uma delas, onde continuo me especializando cada dia mais. Sou amante da cafeina, apaixonado por carros e fotografia (virou um hobbie), sonhando alto como todos!<br /><br />
+👨🏼‍🎓 Tenho 3 formações, porém hoje só atuo em uma delas, onde continuo me especializando. Sou amante da cafeina, apaixonado por carros e fotografia (virou um hobbie), sonhando alto como todos!<br /><br />
 
 💻 Hoje atuo na área de Suporte a Sistemas, atuando em 2 sistemas o RM TOTVS e o Infosistemas Locavia.<br />
 
